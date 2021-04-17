@@ -3,6 +3,8 @@
 
 ---
 
+# Customizing Lite
+
 ---
 
 [Previous chapter](./06_CreateAdventures.md)
