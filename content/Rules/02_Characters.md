@@ -13,7 +13,7 @@ Erschaffe also einen gruppenfähigen Charakter, keinen Einzelgänger, der ständ
 
 ---
 
-## Overview of character creation:
+### Overview of character creation:
 
 **Character attributes**:
 
@@ -32,6 +32,8 @@ Erschaffe also einen gruppenfähigen Charakter, keinen Einzelgänger, der ständ
 7. Collect 100 [CU](../Glossary.md#CU) in starter money.
 
 ---
+
+# Character attributes
 
 ## Profiles
 
@@ -65,7 +67,7 @@ If the setting defines species and or faction bonuses, they are added to the pro
 
 ---
 
-**Tip: Don't create a one-track specialist**
+### Tip: Don't create a one-track specialist
 
 Create a character who can survive on their own. Not a one-track specialist who can only add to one or two scenes per adventure. Because you as a player must be capable of progressing the adventure, and you probably don't want play only a spectator.
 
@@ -73,7 +75,8 @@ Create a character who can survive on their own. Not a one-track specialist who 
 
 ---
 
-**Example for profile allocation**
+### Example for profile allocation
+
 Willi decides to, in concert with his group, to play an intellectual character who can also survive in the wilderness. "Pulp" has the profiles of Scientist, Pioneer, Soldier and Crook. Willy allocates his points as follows: Scientist 5, Pioneer 4, Soldier 2, Crook 1.
 
 ---
@@ -88,11 +91,11 @@ Besides it's value each profile also has a toughness of 6 points, unless the set
 
 ## Experience points
 
-## Background
+# Background
 
 ## Traits
 
-## Equipment
+# Equipment
 
 ## Starting money
 
