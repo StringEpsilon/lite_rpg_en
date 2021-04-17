@@ -8,11 +8,11 @@ Lite is a free pen and paper role playing game system. It is "free" in three asp
 
 This translation project as only just kicked off. Completion status:
 
-0 / 84 pages.
+6 / 72 pages (< 10%)
 
 ## License and credit
 
-Lite is available under the ["Attribution-ShareAlike 4.0 International"](https://creativecommons.org/licenses/by-sa/4.0/). A full text of the license is provided in this GitHub repository.
+Lite is available under the ["Attribution-ShareAlike 4.0 International"](https://creativecommons.org/licenses/by-sa/4.0/). The full text of the license is provided in this GitHub repository in the [LICENSE.txt](LICENSE.txt) file.
 
 **Author**: [Jürgen Mang](https://jcgames.de).
 
