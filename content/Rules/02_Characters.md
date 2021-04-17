@@ -87,11 +87,66 @@ Besides it's value each profile also has a toughness of 6 points, unless the set
 
 ## Consequences
 
+Consequnces are disadvantages affecting the character which must be played out, but do not influence any of the rule mechanics. There are no consequences at character creation. Consequences are acquired within an adventure when the toughness of a profile reaches zero. They apply to the character until they are cleared through level up.
+
 ## Adventure points
+
+Adventure points are resources which the player can spend at any point. Which adventure points you can:
+
+- Increase the dicepool by 2 dice per point
+- Regenerate the toughness of a profile by 3 points
+- Buy important facts (from the GM)
+
+At character creation each character gets 5 adventure poins. These will reset at the beginning of each adventure. During an adventure the game master will give out fresh adventure points for particularly well played character scenes.
 
 ## Experience points
 
+Each character starts at level one with zero experience points. Experience points can be collected by living through an adventure. Their purpose is to make the character better over time.
+
 # Background
+
+The background gives the character individuality. Besides names, appearance and demeanour there are interests and past events. The choice of writing the background out in prose or noting it down in a rough outline is personal preference.
+
+---
+
+### Tips for backgrounds
+
+Create a background that makes your character interesting. Characters with a mind of their own and some flaws can enrich the game.
+
+A cool background doesn't do anything if it is overshadowed in the game. So make your background useful. First for yourself, so that you can play it out better and secondly for your group and game master so that they have a hook to play with your character.
+
+Tropes are wonderful, everyone knows them and one quickly develops a mental picture. So utilize tropes to give your character typical or atypical traits.
+
+---
+
+The following questions can help to address the most important facts about the character background:
+
+1. **Appearance**
+   How does the character look and how do they dress?
+   How old is your character and where were they born?
+   Which details give them an individual touch?
+
+2. **Behavior**
+   What is their standing with the group?
+   How do they behave towards their friends?
+   What is their current social standing?
+
+3. **History**
+   What did they do before joining the group?
+   Have they learned a profession?
+   What motivates them?
+
+---
+
+### Example backstory
+
+Willi calls his character James Montgomery, he's from England and 30 years old. He answers the background question as follows:
+
+1. Somewhat longer, brown hair and a full beard. He wears a corduroy suit.
+2. Montgomery is a curious and typically formal englishman.
+3. He was professor of archeology at cambridge university, grew tired of the classroom and now wants to see the world.
+
+---
 
 ## Traits
 
