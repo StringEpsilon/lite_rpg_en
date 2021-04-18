@@ -177,6 +177,28 @@ Willi gives James the following two traits:
 
 ## Starting money
 
+# Example character
+
+|                       |                                                                         |
+| --------------------- | ----------------------------------------------------------------------- |
+| **Name**              | James Montgomery                                                        |
+| **Scientist**         | 5                                                                       |
+| **Soldier**           | 2                                                                       |
+| **Pioneer**           | 4                                                                       |
+| **Crook**             | 1                                                                       |
+| **Adventure points**  | 5                                                                       |
+| **Experience points** | 0                                                                       |
+| **Traits**            | - Can be naive and curios                                               |
+|                       | - Can't stomach seeing blood                                            |
+| **Equipment**         | Shotgun (P+1, Z+0, E 1)                                                 |
+|                       | Survival kit (P+1, Z+0, E 1)                                            |
+|                       | Archeology kit (P+0, Z+0, E 1)                                          |
+|                       |                                                                         |
+| **Description**       | Somewhat longer, brown hair and a full beard. He wears a corduroy suit. |
+|                       | Montgomery is a curious and typically formal englishman.                |
+|                       | He was professor of archeology at cambridge university,                 |
+|                       | grew tired of the classroom and now wants to see the world.             |
+
 ---
 
 [Previous chapter](./01_BeforeTheGame.md) | [Next chapter](./03_Adventure.md)
