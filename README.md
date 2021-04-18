@@ -2,13 +2,13 @@
 
 ## What is Lite?
 
-Lite is a free pen and paper role playing game system. It is "free" in three aspects: It supports a free and narrative driven playstyle, it is suitable for alle settings and is available under a free license. Lite can be easily adjusted for existing settings and playable settings and adventures are available (in German).
+Lite is a free pen and paper role playing game system. It is "free" in three aspects: It supports a free and narrative driven playstyle, it is suitable for all settings and is available under a free license. Lite can be easily adjusted for existing settings and playable settings and adventures are available.
 
 ## Translation progress
 
-This translation project as only just kicked off. Completion status:
+This translation project has only just kicked off.
 
-8 / 72 pages (~ 10%)
+First draft status: 8 / 72 pages (~ 10%)
 
 ## License and credit
 
