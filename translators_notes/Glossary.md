@@ -1,6 +1,6 @@
 | German        | English          | Notes                                                                                                                                                                          |
 | ------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Gummipunkte   | adventure points | "Gummipunkte" is very hard to translate properly. Adventure points captures what they are, but not the lighthearted nature of the original term.                               |
+| Gummipunkte   | adventure points | Adventure points is not a translation as such, but rather describes the function of the points                                                                                 |
 | Normal        | Mundane          | "Normal" as it refers to non-magical characters.                                                                                                                               |
 | Magiebegabter | magic user       |
 | Zähigkeit     | Toughness        |

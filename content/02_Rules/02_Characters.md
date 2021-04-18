@@ -150,6 +150,29 @@ Willi calls his character James Montgomery, he's from England and 30 years old. 
 
 ## Traits
 
+Part of the character background in Lite are two traits. These are meant to bringe some individuality to your character, bring some flavor to the game and give players the opportunity to earn adventure points. Traits can be either positive or negative features and behavior patterns. Nothing is more boring than a sleek chracter without any rough edges and flaws. The traits ideally play off the characters background.
+
+Each character should have two traits and the player has the freedom to invent any they like. Traits can be replaced or dropped, if you find out during the game that they don't fit the character you want to play.
+
+---
+
+### Tip: Good traits
+
+Good traits don't have to be positive for the character. Much more important is that they can be actively brought up by you or other players during the game, which allows you to earn adventure points. A good trait gives your character an image and makes them memorable. So don't use the traits to make your character as strong as possible, but to make them as interesting as possible for everyone at the table.
+
+---
+
+---
+
+### Example traits
+
+Willi gives James the following two traits:
+
+1. Can be naive and curious.
+2. Can't stomach seeing blood.
+
+---
+
 # Equipment
 
 ## Starting money
