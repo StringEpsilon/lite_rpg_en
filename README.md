@@ -14,7 +14,7 @@ Lite is a free pen and paper role playing game system. It is "free" in three asp
 
 This translation project has only just kicked off.
 
-First draft status: 9 / 72 pages (~ 12%)
+First draft status: 10 / 72 pages (~ 12%)
 
 ## License and credit
 

@@ -34,13 +34,9 @@ Lite is a free role playing game obtainable as a book or free PDF. This means:
 - Lite is self-published by me _[Jürgen]_ without the help of a publisher.
 - Lite is available under a free license which allows for free distribution and creation of derivitive works
 
----
-
-### License
-
-This work is licensed under the Attribution-ShareAlike 4.0 International.
-
----
+| **License**                                                               |
+| ------------------------------------------------------------------------- |
+| This work is licensed under the Attribution-ShareAlike 4.0 International. |
 
 ---
 

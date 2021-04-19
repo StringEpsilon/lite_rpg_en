@@ -190,6 +190,7 @@ Willi gives James the following two traits:
 | **Experience points** | 0                                                                       |
 | **Traits**            | - Can be naive and curios                                               |
 |                       | - Can't stomach seeing blood                                            |
+|                       |                                                                         |
 | **Equipment**         | Shotgun (P+1, Z+0, E 1)                                                 |
 |                       | Survival kit (P+1, Z+0, E 1)                                            |
 |                       | Archeology kit (P+0, Z+0, E 1)                                          |

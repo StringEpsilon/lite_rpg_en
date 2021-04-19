@@ -33,11 +33,30 @@ Lite focuses more on the narrative aspects than tactical procedure. The rules of
 
 ### Characters
 
+The skills of the characters are described by four profiles, which have numerical values. The higher these values, the better the character is. The names of the profiles are prescribed by the setting. The character is also defined by player created traits, potentially magic categories (depending on the setting) and equipment.
+
 ### Conflict resolution
+
+Lite uses a unified approach to all kinds of conflicts from trading over bar fights to space battles. Conflicts are resolved through dice rolls. The number of dice depends on the profile value and equipment. Each die has a 50% chance of success (even number). How many successes are needed depends on the opponent and or difficulty of the action. Each conflict is decided via a diceroll of each participant and for important conflicts the details are jointly narrated afterwards, where each success stands for a positive aspect and each miss for a negative one.
 
 ## This book
 
-_[Translators note: You may read "this repository", as this translation is currently not available as a book or PDF]_
+_[Translators note: Read "this repository", as this translation is currently not available as a book or PDF]_
+
+This book contains all the rules to play Lite. It explains how characters are created, how adventures work and how conflicts are resolved.
+
+It also contains tipps for the game master for how to prepare adventures and writing custom ones. Since Lite is not restricted to a particular setting, this book also contains rules to make custom settings.
+
+Lastly, the book contains 10 settings ready to play.
+
+| **Needed for playing**                                          |
+| --------------------------------------------------------------- |
+| - 3-4 hours of time and a quiet place                           |
+| - One game master and 3 to 6 players                            |
+| - A character sheet for each player                             |
+| - Ten dice of the same kind for each player (even no. of faces) |
+| - Tokens to count the adventure points                          |
+| - Some paper to take notes                                      |
 
 ---
 
