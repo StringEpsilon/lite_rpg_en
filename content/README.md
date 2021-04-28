@@ -18,7 +18,7 @@
 - [Adventure](./02_Rules/03_Adventure.md)
 
   - Before the adventure
-  - Structuring of adventures
+  - Structure of adventures
   - Playing out a scene
   - After the adventure
 

@@ -175,7 +175,36 @@ Willi gives James the following two traits:
 
 # Equipment
 
+Equipment are those possessions of the character, which are relevant for the adventure or in support of the personality of the character. In a tough as nails pulp setting, the latest model gramophone is thus doesn't belong on the equipment list - but the shotgun does.
+
+If an item is used during a conflict, it's bonus temporarily increases the value or toughness of a profile. The effectivness dictates how effective an item is, which for a weapon is comparable to it's damage.
+
+At character creation the chracter can be given any number of items, without any regard for the costs. Small details must be noted on the character sheet. The chosen equipment should fit the background of the character. A poor archeology professor wouldn't drive a Ferrari.
+
+The equipment can be chosen from the equipment list of the setting or - in deliberation with the game master - generated as needed.
+
+After the equipment is chose, they have to be assigned values. Each item has a profile bonus of 0, a toughness bonus of 0 and an effectiveness of 1.
+
+There are 2 points to distribute [per character]. Each point either gives +1 on toughness or profile value. Alternatively both points can be used to increase the effectiveness of an item. More effective items cause a higher loss of toughness in conflicts.
+
+| **Notation of equipment values**                |
+|-------------------------------------------------|
+| The bonuses are noted directly after each item. |
+| **P** stands for profile bonus.                 |
+| **T** stands for toughness bonus.               |
+| **E** for the effectivness.                     |
+
+
+| **Example: Equipment**      |
+|-----------------------------|
+| Willing is browsing the equipment list for *Pulp* and picks a shotgun and a survival kit. He generates his own custom item in form of an archeology kit. The two bonus points he splits as follows: |
+| Shotgun P+1, T+0, E 1       |
+| Survival kit P+1, T+0, E 1  |
+
+
 ## Starting money
+
+Each character starts their adventuring career with 100 CU (currency units), unless the setting states otherwise.
 
 # Example character
 
@@ -191,9 +220,9 @@ Willi gives James the following two traits:
 | **Traits**            | - Can be naive and curios                                               |
 |                       | - Can't stomach seeing blood                                            |
 |                       |                                                                         |
-| **Equipment**         | Shotgun (P+1, Z+0, E 1)                                                 |
-|                       | Survival kit (P+1, Z+0, E 1)                                            |
-|                       | Archeology kit (P+0, Z+0, E 1)                                          |
+| **Equipment**         | Shotgun (P+1, T+0, E 1)                                                 |
+|                       | Survival kit (P+1, T+0, E 1)                                            |
+|                       | Archeology kit (P+0, T+0, E 1)                                          |
 |                       |                                                                         |
 | **Description**       | Somewhat longer, brown hair and a full beard. He wears a corduroy suit. |
 |                       | Montgomery is a curious and typically formal englishman.                |
